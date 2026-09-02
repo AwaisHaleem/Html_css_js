@@ -11,11 +11,11 @@ View the full interactive showcase live on **GitHub Pages**:
 
 ## 📂 Project Directory
 
-| # | Project Name | Tech Stack | Live Demo | Source Code |
-| --- | --- | --- | --- | --- |
-| **01** | Cat Photo App | HTML5, CSS3 | [View Live](./01-cat-photo-app/index.html) | [`/01-cat-photo-app`](./01-cat-photo-app) |
-| **02** | Calculator App | HTML, CSS, JS | [View Live](./02-calculator/index.html) | [`/02-calculator`](./02-calculator) |
-| **03** | To-Do List | HTML, CSS, JS (LocalStorage) | [View Live](./03-todo-app/index.html) | [`/03-todo-app`](./03-todo-app) |
+| Project Name | Tech Stack | Live Demo | Source Code |
+| --- | --- | --- | --- |
+| Cat Photo App | HTML5 | [View Live](./CatPhotoApp/index.html) | [`/CatPhotoApp`](./CatPhotoApp/) |
+| Biryani Recipe Page | HTML | [View Live](./RecipePage/index.html) | [`/RecipePage`](./RecipePage) |
+| To-Do List | HTML, CSS, JS (LocalStorage) | [View Live](./03-todo-app/index.html) | [`/03-todo-app`](./03-todo-app) |
 
 ---
 
