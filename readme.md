@@ -5,7 +5,7 @@ A centralized monorepo containing my web development practice projects built wit
 ## 🌐 Live Preview
 
 View the full interactive showcase live on **GitHub Pages**:
-👉 [https://YOUR-USERNAME.github.io/frontend-projects/](https://YOUR-USERNAME.github.io/frontend-projects/)
+👉 [https://awaishaleem.github.io/Html_css_js/](https://awaishaleem.github.io/Html_css_js/)
 
 ---
 
