@@ -15,7 +15,9 @@ View the full interactive showcase live on **GitHub Pages**:
 | --- | --- | --- | --- |
 | Cat Photo App | HTML5 | [View Live](./CatPhotoApp/index.html) | [`/CatPhotoApp`](./CatPhotoApp/) |
 | Biryani Recipe Page | HTML | [View Live](./RecipePage/index.html) | [`/RecipePage`](./RecipePage) |
-| Bookstore Page | HTML | [View Live](./BookStorePage/) | [`/03-todo-app`](./BookStorePage/) |
+| Bookstore Page | HTML | [View Live](./BookStorePage/) | [`./BookStorePage`](./BookStorePage/) |
+| Travel Agency Page | HTML | [View Live](./TravelAgencyPage/) | [`./TravelAgencyPage`](./BookStorePage/) |
+
 
 ---
 
