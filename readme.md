@@ -13,11 +13,14 @@ View the full interactive showcase live on **GitHub Pages**:
 
 | Project Name | Tech Stack | Live Demo | Source Code |
 | --- | --- | --- | --- |
-| Cat Photo App | HTML5 | [View Live](./CatPhotoApp/index.html) | [`/CatPhotoApp`](./CatPhotoApp/) |
-| Biryani Recipe Page | HTML | [View Live](./RecipePage/index.html) | [`/RecipePage`](./RecipePage) |
-| Bookstore Page | HTML | [View Live](./BookStorePage/) | [`./BookStorePage`](./BookStorePage/) |
-| Travel Agency Page | HTML | [View Live](./TravelAgencyPage/) | [`./TravelAgencyPage`](./BookStorePage/) |
-
+| Cat Photo App | HTML5 | [View Live](https://awaishaleem.github.io/Html_css_js/CatPhotoApp/) | [`/CatPhotoApp`](./CatPhotoApp/) |
+| Biryani Recipe Page | HTML | [View Live](https://awaishaleem.github.io/Html_css_js/RecipePage/) | [`/RecipePage`](./RecipePage) |
+| Bookstore Page | HTML | [View Live](https://awaishaleem.github.io/Html_css_js/BookStorePage/) | [`./BookStorePage`](./BookStorePage/) |
+| Travel Agency Page | HTML | [View Live](https://awaishaleem.github.io/Html_css_js/TravelAgencyPage/) | [`./TravelAgencyPage`](./TravelAgencyPage/) |
+| Video Compilation Page | HTML | [View Live](https://awaishaleem.github.io/Html_css_js/VideoCompilationPage/) | [`./VideoCompilationPage`](./VideoCompilationPage/) |
+| HTML Audio Player | HTML | [View Live](https://awaishaleem.github.io/Html_css_js/HtmlAudioPlayer/) | [`./HtmlAudioPlayer`](./HtmlAudioPlayer/) |
+| HTML Video Player | HTML | [View Live](https://awaishaleem.github.io/Html_css_js/HtmlVideoPlayer/) | [`./HtmlVideoPlayer`](./HtmlVideoPlayer/) |
+| HTML Audio & Video Lab | HTML | [View Live](https://awaishaleem.github.io/Html_css_js/HtmlAudioVideoLab/) | [`./HtmlAudioVideoLab`](./HtmlAudioVideoLab/) |
 
 ---
 
