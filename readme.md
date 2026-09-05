@@ -21,6 +21,7 @@ View the full interactive showcase live on **GitHub Pages**:
 | HTML Audio Player | HTML | [View Live](https://awaishaleem.github.io/Html_css_js/HtmlAudioPlayer/) | [`./HtmlAudioPlayer`](./HtmlAudioPlayer/) |
 | HTML Video Player | HTML | [View Live](https://awaishaleem.github.io/Html_css_js/HtmlVideoPlayer/) | [`./HtmlVideoPlayer`](./HtmlVideoPlayer/) |
 | HTML Audio & Video Lab | HTML | [View Live](https://awaishaleem.github.io/Html_css_js/HtmlAudioVideoLab/) | [`./HtmlAudioVideoLab`](./HtmlAudioVideoLab/) |
+| Coffee Menu Page | HTML/CSS | [View Live](https://awaishaleem.github.io/Html_css_js/CoffeeMenu/) | [`./CoffeeMenu`](./CoffeeMenu/) |
 
 ---
 
