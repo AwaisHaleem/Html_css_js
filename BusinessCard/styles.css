@@ -1,0 +1,47 @@
+body{
+    background-color: rosybrown;
+    font-family: Arial, sans-serif;
+}
+
+.bussiness-card{
+    background-color: white;
+    width: 300px;
+    padding: 20px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 16px;
+}
+
+.profile-img{
+    max-width: 300px;
+    height: auto;
+    display: block;
+
+}
+
+.profile-name{
+    font-weight: 700;
+}
+.designation{
+    color: gray;
+}
+.company{
+    color: darkgray;
+}
+
+p {
+    margin: 5px 0;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+
+.social-media a {
+    color: brown;
+
+}
