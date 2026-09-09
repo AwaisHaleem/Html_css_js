@@ -29,16 +29,3 @@ View the full interactive showcase live on **GitHub Pages**:
 
 ---
 
-## 🛠️ Repository Setup & Workflow
-
-### Add a New Project
-
-1. Create a new directory following the `0X-project-name` convention.
-2. Add `index.html`, `style.css`, and `script.js` inside the folder.
-3. Update the root `index.html` file with a new project card.
-4. Push changes to GitHub:
-
-```bash
-git add .
-git commit -m "Add new project: 0X-project-name"
-git push origin main
