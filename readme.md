@@ -25,6 +25,7 @@ View the full interactive showcase live on **GitHub Pages**:
 | Business Card | HTML/CSS | [View Live](https://awaishaleem.github.io/Html_css_js/BusinessCard/) | [`./BusinessCard`](./BusinessCard/) |
 | Todo List | HTML/CSS | [View Live](https://awaishaleem.github.io/Html_css_js/TodoList/) | [`./TodoList`](./TodoList/) |
 | Blog Post Card | HTML/CSS | [View Live](https://awaishaleem.github.io/Html_css_js/BlogPostCard/) | [`./BlogPostCard`](./BlogPostCard/) |
+| Jobs Tips Page | HTML/CSS | [View Live](https://awaishaleem.github.io/Html_css_js/JobsTipsPage/) | [`./JobsTipsPage`](./JobsTipsPage/) |
 
 ---
 
