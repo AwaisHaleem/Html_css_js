@@ -28,6 +28,4 @@ View the full interactive showcase live on **GitHub Pages**:
 | Jobs Tips Page | HTML | [View Live](https://awaishaleem.github.io/Html_css_js/JobsTipsPage/) | [`./JobsTipsPage`](./JobsTipsPage/) |
 | Events Hub Page | HTML | [View Live](https://awaishaleem.github.io/Html_css_js/EventsHubPage/) | [`./EventsHubPage`](./EventsHubPage/) |
 | Cat Blog Page | HTML | [View Live](https://awaishaleem.github.io/Html_css_js/CatBlogPage/) | [`./CatBlogPage`](./CatBlogPage/) |
-
----
-
+| Hotel Feedback Form | HTML | [View Live](https://awaishaleem.github.io/Html_css_js/HotelFeedBackForm/) | [`./HotelFeedBackForm`](./HotelFeedBackForm/) |

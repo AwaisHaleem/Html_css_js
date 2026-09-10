@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hotel Feedback Form</title>
+  </head>
+  <body>
+    <header>
+      <h1>Hotel Feedback Form</h1>
+      <p>
+        Thank you for staying with us. Please provide feedback on your recent
+        stay.
+      </p>
+    </header>
+    <main>
+      <form action="https://hotel-feedback.freecodecamp.org" method="POST">
+        <fieldset>
+          <legend>Personal Information</legend>
+          <label for="name">Name (required): </label>
+          <input
+            required
+            type="text"
+            name="name"
+            id="name"
+            size="20"
+            placeholder="e.g, Joh Doe"
+          />
+          <label for="email">Email (required): </label>
+          <input
+            required
+            type="email"
+            name="email"
+            id="email"
+            size="20"
+            placeholder="example@email.com"
+          />
+          <label for="age">Age (optional):</label>
+          <input name="age" id="age" type="number" min="2" max="100" />
+        </fieldset>
+      </form>
+    </main>
+  </body>
+</html>
