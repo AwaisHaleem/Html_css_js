@@ -26,6 +26,7 @@ View the full interactive showcase live on **GitHub Pages**:
 | Todo List | HTML/CSS | [View Live](https://awaishaleem.github.io/Html_css_js/TodoList/) | [`./TodoList`](./TodoList/) |
 | Blog Post Card | HTML/CSS | [View Live](https://awaishaleem.github.io/Html_css_js/BlogPostCard/) | [`./BlogPostCard`](./BlogPostCard/) |
 | Jobs Tips Page | HTML | [View Live](https://awaishaleem.github.io/Html_css_js/JobsTipsPage/) | [`./JobsTipsPage`](./JobsTipsPage/) |
+| Events Hub Page | HTML | [View Live](https://awaishaleem.github.io/Html_css_js/EventsHubPage/) | [`./EventsHubPage`](./EventsHubPage/) |
 | Cat Blog Page | HTML | [View Live](https://awaishaleem.github.io/Html_css_js/CatBlogPage/) | [`./CatBlogPage`](./CatBlogPage/) |
 
 ---
