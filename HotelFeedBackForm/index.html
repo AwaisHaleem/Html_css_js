@@ -38,6 +38,67 @@
           <label for="age">Age (optional):</label>
           <input name="age" id="age" type="number" min="2" max="100" />
         </fieldset>
+        <fieldset>
+          <legend>Was this your first time at our hotel?</legend>
+          <label for="yes-option">Yes</label>
+          <input type="radio" id="yes-option" name="first-time" value="yes" />
+          <label for="no-option">No</label>
+          <input type="radio" id="no-option" name="first-time" value="no" />
+        </fieldset>
+        <fieldset>
+          <legend>
+            Why did you choose to stay at our hotel? (Check all that apply)
+          </legend>
+          <label for="ads">Social Media Ads</label>
+          <input
+            type="checkbox"
+            id="ads"
+            name="reasons"
+            value="social-media-ads"
+          />
+          <label for="pr">Personal Recommendation</label>
+          <input
+            type="checkbox"
+            id="pr"
+            name="reasons"
+            value="personal-recommendation"
+          />
+          <label for="location">Location</label>
+          <input
+            type="checkbox"
+            id="location"
+            name="reasons"
+            value="location"
+          />
+          <label for="reputation">Reputation</label>
+          <input
+            type="checkbox"
+            id="reputation"
+            name="reasons"
+            value="reputation"
+          />
+          <label for="price">Price</label>
+          <input type="checkbox" id="price" name="reasons" value="price" />
+        </fieldset>
+        <fieldset>
+          <legend>Ratings</legend>
+          <label for="service">How was the service?</label>
+          <select id="service" name="service-rating" required>
+            <option selected value="excellent">Excellent</option>
+            <option value="very-good">Very Good</option>
+            <option value="good">Good</option>
+            <option value="fair">Fair</option>
+            <option value="poor">Poor</option>
+          </select>
+          <label for="cleanliness">How was the cleanliness?</label>
+          <select id="cleanliness" name="cleanliness-rating" required>
+            <option selected value="excellent">Excellent</option>
+            <option value="very-good">Very Good</option>
+            <option value="good">Good</option>
+            <option value="fair">Fair</option>
+            <option value="poor">Poor</option>
+          </select>
+        </fieldset>
       </form>
     </main>
   </body>
