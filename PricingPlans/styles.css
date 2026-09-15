@@ -1,0 +1,74 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    text-align: center;
+}
+
+.pricing-container{
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 70%;
+    margin: 20px auto;
+    padding: 0px 0px 20px;
+}
+
+.pricing-card{
+    background-color: aqua;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    color: black;
+}
+
+
+
+.price{
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.2em;
+}
+
+
+.pricing-card h2,
+.pricing-card .price,
+.pricing-card .choose-plan-btn{
+    align-self: center;
+}
+
+.pricing-card p{
+    align-self: flex-start;
+}
+
+.yes-tick,
+.cross-tick{
+    margin-right: 1em;
+}
+
+.yes-tick{
+    color: green;
+}
+
+.cross-tick{
+    color: red;
+}
+
+.choose-plan-btn{
+    background-color: rgba(233, 153, 5, 0.866);
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 20px;
+    cursor: pointer;
+}

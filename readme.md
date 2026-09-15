@@ -32,3 +32,4 @@ View the full interactive showcase live on **GitHub Pages**:
 | Confidential Email Page | HTML/CSS | [View Live](https://awaishaleem.github.io/Html_css_js/ConfidentialEmailPage/) | [`./ConfidentialEmailPage`](./ConfidentialEmailPage/) |
 | Book Catalog Table | HTML | [View Live](https://awaishaleem.github.io/Html_css_js/BookCatelogTable/) | [`./BookCatelogTable`](./BookCatelogTable/) |
 | Photo Gallery | HTML/CSS | [View Live](https://awaishaleem.github.io/Html_css_js/PhotoGallery/) | [`./PhotoGallery`](./PhotoGallery/) |
+| Pricing Plans | HTML/CSS | [View Live](https://awaishaleem.github.io/Html_css_js/PricingPlans/) | [`./PricingPlans`](./PricingPlans/) |
