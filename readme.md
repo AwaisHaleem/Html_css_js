@@ -33,3 +33,4 @@ View the full interactive showcase live on **GitHub Pages**:
 | Book Catalog Table | HTML | [View Live](https://awaishaleem.github.io/Html_css_js/BookCatelogTable/) | [`./BookCatelogTable`](./BookCatelogTable/) |
 | Photo Gallery | HTML/CSS | [View Live](https://awaishaleem.github.io/Html_css_js/PhotoGallery/) | [`./PhotoGallery`](./PhotoGallery/) |
 | Pricing Plans | HTML/CSS | [View Live](https://awaishaleem.github.io/Html_css_js/PricingPlans/) | [`./PricingPlans`](./PricingPlans/) |
+| Playing Cards | HTML/CSS | [View Live](https://awaishaleem.github.io/Html_css_js/PlayingCardsPage/) | [`./PlayingCardsPage`](./PlayingCardsPage/) |
