@@ -35,3 +35,4 @@ View the full interactive showcase live on **GitHub Pages**:
 | Pricing Plans | HTML/CSS | [View Live](https://awaishaleem.github.io/Html_css_js/PricingPlans/) | [`./PricingPlans`](./PricingPlans/) |
 | Playing Cards | HTML/CSS | [View Live](https://awaishaleem.github.io/Html_css_js/PlayingCardsPage/) | [`./PlayingCardsPage`](./PlayingCardsPage/) |
 | Balance Sheet | HTML/CSS | [View Live](https://awaishaleem.github.io/Html_css_js/BalanceSheet/) | [`./BalanceSheet`](./BalanceSheet/) |
+| Camperbot's Blog | HTML/CSS | [View Live](https://awaishaleem.github.io/Html_css_js/Camperbot%20Blog/) | [`./Camperbot%20Blog`](./Camperbot%20Blog/) |
